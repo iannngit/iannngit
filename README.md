@@ -1,10 +1,10 @@
 ### Hi there 👋 It's Ian
 
-- 🔭 I’m currently working on redesign of my website.
-- 🌱 I’m studying project management.
-- 🎯 I’m aiming to complete my Master in Business this November.
+- 🔭 I’m a frontend developer but can handle some backend stuff too. Currently aiming to expand knowledge to app development area.
+- 🌱 I’m lucky to work on a national company's React Native project and recently catching up Flutter skills for potential projects at work.
+- 🎯 I’m planning going to Australia in a few years but NZ is my second home!
+- 📚 I'm reading books about psychology and magazines about varied topics.
 
 - 📫 Welcome to reach me through [LinkedIn](https://www.linkedin.com/in/ian-cv/)
-- ⚡ Fun fact: I cross out the leading 'X' in my real name as people don't know how to pronounce that 😂
 
-updated on 11/04/2022 . wish you health
+updated on June 09, 2024 . Wish you health!
